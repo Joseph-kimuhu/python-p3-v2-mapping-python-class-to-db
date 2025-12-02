@@ -1,3 +1,7 @@
+import sys
+sys.path.append('..')
+import sys
+sys.path.append('..')
 from department import Department
 from __init__ import CURSOR, CONN
 import pytest
